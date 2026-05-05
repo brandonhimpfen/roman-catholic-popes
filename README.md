@@ -1,5 +1,8 @@
 # Roman Catholic Popes Dataset
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![DOI](https://zenodo.org/badge/671685469.svg)](https://doi.org/10.5281/zenodo.20044659)
+
 A structured, open dataset of Roman Catholic popes, canonical pontificate records, and antipopes.
 
 This repository is designed for historical reference, Catholic reference tools, timelines, APIs, research notes, and educational projects.
