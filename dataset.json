@@ -1,0 +1,18 @@
+{
+  "title": "Roman Catholic Popes Dataset",
+  "version": "1.0.0",
+  "created": "2026-05-05",
+  "description": "A structured, open dataset of Roman Catholic popes, canonical pontificate records, and separate antipope records.",
+  "canonical_person_record_count": 265,
+  "canonical_pontificate_record_count": 267,
+  "antipope_record_count": 41,
+  "current_pope": "Leo XIV",
+  "license": "CC0-1.0",
+  "modeling_notes": [
+    "Canonical person records and pontificate records are separate.",
+    "Benedict IX appears once as a person and three times as pontificate records.",
+    "Benedict X is modeled as an antipope, not as a canonical pope.",
+    "Pope-elect Stephen is not included as a canonical pope.",
+    "Antipopes are kept in a separate dataset."
+  ]
+}

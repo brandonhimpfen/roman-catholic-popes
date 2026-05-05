@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "title": "Antipope Record",
+  "required": [
+    "antipope_id",
+    "claimant_name",
+    "slug",
+    "claim_period",
+    "status",
+    "included_in_canonical_popes",
+    "notes"
+  ],
+  "properties": {
+    "antipope_id": {
+      "type": "string"
+    },
+    "claimant_name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "claim_period": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "included_in_canonical_popes": {
+      "type": "boolean"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

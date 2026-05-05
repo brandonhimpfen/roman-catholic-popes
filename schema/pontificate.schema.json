@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "title": "Canonical Pontificate Record",
+  "required": [
+    "pontificate_id",
+    "annuario_style_sequence",
+    "pope_id",
+    "papal_name",
+    "pontificate_ordinal_for_person",
+    "pontificate_start",
+    "pontificate_end",
+    "date_precision",
+    "is_current",
+    "is_multiple_pontificate_case",
+    "notes"
+  ],
+  "properties": {
+    "pontificate_id": {
+      "type": "string"
+    },
+    "annuario_style_sequence": {
+      "type": "integer"
+    },
+    "pope_id": {
+      "type": "string"
+    },
+    "papal_name": {
+      "type": "string"
+    },
+    "pontificate_ordinal_for_person": {
+      "type": "integer"
+    },
+    "pontificate_start": {
+      "type": "string"
+    },
+    "pontificate_end": {
+      "type": "string"
+    },
+    "date_precision": {
+      "type": "string"
+    },
+    "is_current": {
+      "type": "boolean"
+    },
+    "is_multiple_pontificate_case": {
+      "type": "boolean"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

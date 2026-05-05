@@ -1,112 +1,112 @@
-St. Peter
-St. Linus
-St. Anacletus (Cletus)
-St. Clement I
-St. Evaristus
-St. Alexander I
-St. Sixtus I
-St. Telesphorus
-St. Hyginus
-St. Pius I
-St. Anicetus
-St. Soter
-St. Eleutherius
-St. Victor I
-St. Zephyrinus
-St. Callixtus I
-St. Urban I
-St. Pontian
-St. Anterus
-St. Fabian
-St. Cornelius
-St. Lucius I
-St. Stephen I
-St. Sixtus II
-St. Dionysius
-St. Felix I
-St. Eutychian
-St. Caius
-St. Marcellinus
-St. Marcellus I
-St. Eusebius
-St. Miltiades
-St. Sylvester I
-St. Mark
-St. Julius I
+Peter
+Linus
+Anacletus
+Clement I
+Evaristus
+Alexander I
+Sixtus I
+Telesphorus
+Hyginus
+Pius I
+Anicetus
+Soter
+Eleutherius
+Victor I
+Zephyrinus
+Callixtus I
+Urban I
+Pontian
+Anterus
+Fabian
+Cornelius
+Lucius I
+Stephen I
+Sixtus II
+Dionysius
+Felix I
+Eutychian
+Caius
+Marcellinus
+Marcellus I
+Eusebius
+Miltiades
+Sylvester I
+Mark
+Julius I
 Liberius
-St. Damasus I
-St. Siricius
-St. Anastasius I
-St. Innocent I
-St. Zosimus
-St. Boniface I
-St. Celestine I
-St. Sixtus III
-St. Leo I (Leo the Great)
-St. Hilarius (Hilary)
-St. Simplicius
-St. Felix III (Felix II)
-St. Gelasius I
+Damasus I
+Siricius
+Anastasius I
+Innocent I
+Zosimus
+Boniface I
+Celestine I
+Sixtus III
+Leo I
+Hilarius
+Simplicius
+Felix III (Felix II)
+Gelasius I
 Anastasius II
-St. Symmachus
-St. Hormisdas
-St. John I
-St. Felix IV (Felix III)
+Symmachus
+Hormisdas
+John I
+Felix IV (Felix III)
 Boniface II
 John II
-St. Agapetus I
-St. Silverius
+Agapetus I
+Silverius
 Vigilius
 Pelagius I
 John III
 Benedict I
 Pelagius II
-St. Gregory I (Gregory the Great)
+Gregory I
 Sabinian
 Boniface III
 Boniface IV
-St. Adeodatus I (Deusdedit)
+Adeodatus I
 Boniface V
 Honorius I
 Severinus
-St. John IV
+John IV
 Theodore I
-St. Martin I
-St. Eugene I
-St. Vitalian
+Martin I
+Eugene I
+Vitalian
 Adeodatus II
 Donus
-St. Agatho
-St. Leo II
-St. Benedict II
+Agatho
+Leo II
+Benedict II
 John V
 Conon
-St. Sergius I
+Sergius I
 John VI
 John VII
 Sisinnius
 Constantine
-St. Gregory II
-St. Gregory III
-St. Zachary
+Gregory II
+Gregory III
+Zachary
 Stephen II (III)
-St. Paul I
+Paul I
 Stephen III (IV)
 Adrian I
-St. Leo III
+Leo III
 Stephen IV (V)
-St. Paschal I
+Paschal I
 Eugene II
 Valentine
 Gregory IV
 Sergius II
-St. Leo IV
+Leo IV
 Benedict III
-St. Nicholas I (Nicholas the Great)
+Nicholas I
 Adrian II
 John VIII
 Marinus I
-St. Adrian III
+Adrian III
 Stephen V (VI)
 Formosus
 Boniface VI
@@ -127,8 +127,6 @@ Agapetus II
 John XI
 Leo VII
 Stephen VIII (IX)
-Marinus II (again)
-Agapetus II (again)
 John XII
 Leo VIII
 Benedict V
@@ -146,18 +144,17 @@ Benedict VIII
 John XIX
 Benedict IX
 Sylvester III
-Benedict IX (again)
+Benedict IX
 Gregory VI
 Clement II
-Benedict IX (third time)
+Benedict IX
 Damasus II
-St. Leo IX
+Leo IX
 Victor II
 Stephen IX (X)
-Benedict X
 Nicholas II
 Alexander II
-St. Gregory VII
+Gregory VII
 Victor III
 Urban II
 Paschal II
@@ -192,7 +189,7 @@ Nicholas III
 Martin IV
 Honorius IV
 Nicholas IV
-St. Celestine V
+Celestine V
 Boniface VIII
 Benedict XI
 Clement V
@@ -210,11 +207,11 @@ Martin V
 Eugene IV
 Nicholas V
 Callixtus III
-Pius II (Aeneas Silvius Piccolomini)
+Pius II
 Paul II
 Sixtus IV
 Innocent VIII
-Alexander VI (Rodrigo Borgia)
+Alexander VI
 Pius III
 Julius II
 Leo X
@@ -257,13 +254,14 @@ Pius VIII
 Gregory XVI
 Pius IX
 Leo XIII
-St. Pius X
+Pius X
 Benedict XV
 Pius XI
 Pius XII
-St. John XXIII
+John XXIII
 Paul VI
 John Paul I
-St. John Paul II
+John Paul II
 Benedict XVI
 Francis
+Leo XIV

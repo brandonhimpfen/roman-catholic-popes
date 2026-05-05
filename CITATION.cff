@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Roman Catholic Popes Dataset"
+version: "1.0.0"
+type: dataset
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+abstract: "A structured open dataset of Roman Catholic popes, canonical pontificate records, and antipopes."
+keywords:
+  - popes
+  - Roman Catholic Church
+  - papacy
+  - pontificates
+  - antipopes
+  - church history
+  - open dataset
+date-released: "2026-05-05"

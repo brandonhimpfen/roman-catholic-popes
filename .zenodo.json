@@ -1,0 +1,23 @@
+{
+  "title": "Roman Catholic Popes Dataset",
+  "upload_type": "dataset",
+  "description": "A structured open dataset of Roman Catholic popes, canonical pontificate records, and antipopes. The dataset separates pope person records from pontificate records and antipope claimant records.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "Brandon Himpfen"
+    }
+  ],
+  "license": "cc-zero",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "popes",
+    "roman catholic church",
+    "papacy",
+    "pontificates",
+    "antipopes",
+    "church history",
+    "open dataset"
+  ]
+}

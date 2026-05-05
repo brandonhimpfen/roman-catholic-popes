@@ -1,0 +1,42 @@
+antipope_id,claimant_name,slug,claim_period,status,included_in_canonical_popes,notes
+antipope-001,Natalius,natalius-1,c. 199–200,antipope,False,In opposition to Zephyrinus; later reconciled.
+antipope-002,Hippolytus,hippolytus-2,217–235,antipope,False,"In opposition to Callixtus I, Urban I, and Pontian; later reconciled."
+antipope-003,Novatian,novatian-3,251–258,antipope,False,Founder of Novatianism; in opposition to Cornelius and successors.
+antipope-004,Felix II,felix-ii-4,355–365,antipope,False,Often treated historically as an antipope.
+antipope-005,Ursicinus,ursicinus-5,366–367,antipope,False,In opposition to Damasus I.
+antipope-006,Eulalius,eulalius-6,418–419,antipope,False,In opposition to Boniface I.
+antipope-007,Laurence,laurence-7,498–506,antipope,False,In opposition to Symmachus.
+antipope-008,Dioscorus,dioscorus-8,530,antipope,False,In opposition to Boniface II.
+antipope-009,Theodore,theodore-9,687,antipope,False,Claimant during the disputed election after Conon.
+antipope-010,Paschal,paschal-10,687,antipope,False,Claimant during the disputed election after Conon.
+antipope-011,Constantine II,constantine-ii-11,767–768,antipope,False,In opposition before Stephen III.
+antipope-012,Philip,philip-12,768,antipope,False,Claimant installed briefly during the same crisis.
+antipope-013,John VIII,john-viii-13,844,antipope,False,Claimant against Sergius II; not the later canonical John VIII.
+antipope-014,Anastasius Bibliothecarius,anastasius-bibliothecarius-14,855,antipope,False,In opposition to Benedict III.
+antipope-015,Christopher,christopher-15,903–904,antipope,False,Formerly treated by some lists as pope; removed from the official succession.
+antipope-016,Boniface VII,boniface-vii-16,974; 984–985,antipope,False,Antipope whose numbering affected later Boniface numbering.
+antipope-017,John XVI,john-xvi-17,997–998,antipope,False,Antipope whose numbering affected later John numbering.
+antipope-018,Gregory VI,gregory-vi-18,1012,antipope,False,In opposition to Benedict VIII; not the later canonical Gregory VI.
+antipope-019,Benedict X,benedict-x-19,1058–1059,antipope,False,Excluded from canonical list and modeled here as antipope.
+antipope-020,Honorius II,honorius-ii-20,1061–1072,antipope,False,Antipope Cadalus; in opposition to Alexander II.
+antipope-021,Clement III,clement-iii-21,1080–1100,antipope,False,Antipope Guibert; in opposition to Gregory VII and successors.
+antipope-022,Theodoric,theodoric-22,1100–1101,antipope,False,In the Clement III line.
+antipope-023,Adalbert,adalbert-23,1101,antipope,False,In the Clement III line.
+antipope-024,Sylvester IV,sylvester-iv-24,1105–1111,antipope,False,In opposition to Paschal II.
+antipope-025,Gregory VIII,gregory-viii-25,1118–1121,antipope,False,In opposition to Gelasius II and Callixtus II.
+antipope-026,Celestine II,celestine-ii-26,1124,antipope,False,Claimant after Callixtus II; not the later canonical Celestine II.
+antipope-027,Anacletus II,anacletus-ii-27,1130–1138,antipope,False,In opposition to Innocent II.
+antipope-028,Victor IV,victor-iv-28,1138,antipope,False,Successor in the Anacletus line.
+antipope-029,Victor IV,victor-iv-29,1159–1164,antipope,False,Imperial antipope in opposition to Alexander III.
+antipope-030,Paschal III,paschal-iii-30,1164–1168,antipope,False,In opposition to Alexander III.
+antipope-031,Callixtus III,callixtus-iii-31,1168–1178,antipope,False,In opposition to Alexander III; not the later canonical Callixtus III.
+antipope-032,Innocent III,innocent-iii-32,1179–1180,antipope,False,In opposition to Alexander III; not the later canonical Innocent III.
+antipope-033,Nicholas V,nicholas-v-33,1328–1330,antipope,False,In opposition to John XXII.
+antipope-034,Clement VII,clement-vii-34,1378–1394,antipope,False,Avignon claimant during the Western Schism.
+antipope-035,Benedict XIII,benedict-xiii-35,1394–1423,antipope,False,Avignon claimant during the Western Schism.
+antipope-036,Alexander V,alexander-v-36,1409–1410,antipope,False,Pisan claimant; reclassified as antipope.
+antipope-037,John XXIII,john-xxiii-37,1410–1415,antipope,False,Pisan claimant; reclassified as antipope.
+antipope-038,Clement VIII,clement-viii-38,1423–1429,antipope,False,Avignon claimant after Benedict XIII.
+antipope-039,Benedict XIV,benedict-xiv-39,1424–1429,antipope,False,Avignon claimant; disputed line.
+antipope-040,Benedict XIV,benedict-xiv-40,1430–1437,antipope,False,Another claimant using the same name in the disputed line.
+antipope-041,Felix V,felix-v-41,1439–1449,antipope,False,Last major historical antipope.

@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "title": "Canonical Pope Person Record",
+  "required": [
+    "pope_id",
+    "person_sequence",
+    "papal_name",
+    "display_name",
+    "slug",
+    "canonization_status",
+    "person_status",
+    "birth_name",
+    "birth_place",
+    "origin",
+    "religious_order",
+    "notes",
+    "source_basis"
+  ],
+  "properties": {
+    "pope_id": {
+      "type": "string"
+    },
+    "person_sequence": {
+      "type": "integer"
+    },
+    "papal_name": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "canonization_status": {
+      "type": "string"
+    },
+    "person_status": {
+      "type": "string"
+    },
+    "birth_name": {
+      "type": "string"
+    },
+    "birth_place": {
+      "type": "string"
+    },
+    "origin": {
+      "type": "string"
+    },
+    "religious_order": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "source_basis": {
+      "type": "string"
+    }
+  }
+}
